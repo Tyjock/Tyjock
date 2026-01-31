@@ -1,68 +1,66 @@
-# 👋 Ciao, sono Samuel
+# 👋 Hi, I’m Samuel
 
-## 🎯 Profilo
+## 🎯 Profile
 
-Sono uno studente di 18 anni del **Liceo Scientifico – Scienze Applicate**, con una forte passione per **informatica** e **cybersecurity**.
+I am an 18-year-old student attending a **Scientific High School – Applied Sciences**, with a strong passion for **computer science** and **cybersecurity**.
 
-Credo nell’apprendimento pratico e nello sviluppo di progetti reali come metodo principale per costruire competenze solide. Il mio obiettivo è intraprendere una carriera nella sicurezza informatica, lavorando su tecnologie che mi appassionano e in contesti che valorizzino autonomia, responsabilità e crescita continua.
+I believe in hands-on learning and building real-world projects as the primary way to develop solid technical skills. My goal is to pursue a career in cybersecurity, working with technologies I am passionate about in environments that value autonomy, responsibility, and continuous growth.
 
-## 🚀 Attività attuali
+## 🚀 Current Activities
 
-- 🎮 Sviluppo e gestione di una piattaforma **e-commerce** per server gaming (Minecraft / Hytale)
-- 🔐 Studio di **cybersecurity** e **sviluppo web**.
+- 🎮 Developing and managing an **e-commerce platform** for gaming servers (Minecraft / Hytale)
+- 🔐 Studying **cybersecurity** and **web development**
 
-## 🛠️ Competenze tecniche
+## 🛠️ Technical Skills
 
-### Linguaggi & Tecnologie
-- **Python** – automazione e scripting
-- **JavaScript / Node.js** – sviluppo backend
-- **HTML / CSS** – frontend di base
-- **SQL** – gestione database
+### Languages & Technologies
+- **Python** – automation and scripting  
+- **JavaScript / Node.js** – backend development  
+- **HTML / CSS** – frontend basics  
+- **SQL** – database management  
 
 ### Cybersecurity & Tooling
-- Linux (CLI) e bash scripting
-- Fondamenti di networking (TCP/IP, DNS, HTTP/HTTPS)
-- OWASP Top 10 e vulnerabilità comuni
-- Git e version control
+- Linux (CLI) and bash scripting  
+- Networking fundamentals (TCP/IP, DNS, HTTP/HTTPS)  
+- OWASP Top 10 and common vulnerabilities  
+- Git and version control  
 
-### In fase di apprendimento
-- Metodologie di penetration testing
-- Sicurezza delle applicazioni web
-- Cloud security (concetti base)
-- Threat intelligence
+### Currently Learning
+- Penetration testing methodologies  
+- Web application security  
+- Cloud security (basic concepts)  
+- Threat intelligence  
 
-## 📚 Progetti
+## 📚 Projects
 
 ### 🎮 Gaming Server E-commerce Platform
-Piattaforma e-commerce per la vendita di prodotti digitali legati a server Minecraft/Hytale.  
-Include:
-- Sistema di pagamento
-- Gestione utenti
-- Integrazione con server di gioco
+An e-commerce platform for selling digital products related to Minecraft/Hytale servers.  
+Includes:
+- Payment system  
+- User management  
+- Game server integration  
 
 ### 🔒 Cybersecurity Practice
-Repository dedicato a:
-- Esercizi pratici
-- Soluzioni CTF
-- Write-up di challenge completate su piattaforme come TryHackMe e Hack The Box
+A repository dedicated to:
+- Hands-on exercises  
+- CTF solutions  
+- Write-ups of challenges completed on platforms such as TryHackMe and Hack The Box  
 
-> *Progetto in costruzione*
+> *Work in progress*
 
-## 🎯 Obiettivi 2026
+## 🎯 2026 Goals
 
-- [ ] Lanciare ufficialmente **ItapixMC**
-- [ ] Completare **50+ challenge** su TryHackMe
-- [ ] Ottenere la prima certificazione in cybersecurity (CompTIA Security+)
-- [ ] Contribuire a progetti open-source nel settore sicurezza
-- [ ] Iniziare l’università in Informatica
-- [ ] Trovare il primo stage o lavoro entry-level (anche remote)
+- [ ] Officially launch **ItapixMC**
+- [ ] Complete **50+ challenges** on TryHackMe
+- [ ] Earn my first cybersecurity certification (CompTIA Security+)
+- [ ] Contribute to open-source projects in the security field
+- [ ] Start university studies in Computer Science
+- [ ] Find my first internship or entry-level job (including remote opportunities)
 
-## 📫 Contatti
+## 📫 Contact
 
 - **LinkedIn:** https://www.linkedin.com/in/...
 - **Email:** samuelvv.contact@gmail.com
 - **Portfolio:** https://...
 
----
-
-🚀 Se ti interessa il mio percorso, seguimi per vedere la mia crescita nel mondo della cybersecurity.
+🚀 If you’re interested in my journey, follow me to see my growth in the cybersecurity field.
