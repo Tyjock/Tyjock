@@ -22,6 +22,8 @@ I believe in hands-on learning and building real-world projects as the primary w
 - Web application security
 - Exploit execution techniques and vulnerability discovery methodologies
 
+
+
 ## 🚀 Projects
 
 ### ItapixMC
