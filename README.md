@@ -12,54 +12,39 @@ I believe in hands-on learning and building real-world projects as the primary w
 ## 🛠️ Technical Skills
 
 ### Languages & Technologies
-- **Python** – automation and scripting  
-- **JavaScript / Node.js** – backend development  
+- **Python** – automation and scripting
+- **JavaScript / Node.js** – backend and bot development  
 - **HTML / CSS** – frontend basics  
-- **SQL** – database management  
+- **MySQL** – database management  
 
 ### Cybersecurity & Tooling
-- Linux (CLI) and bash scripting  
-- Networking fundamentals (TCP/IP, DNS, HTTP/HTTPS)  
-- OWASP Top 10 and common vulnerabilities  
-- Git and version control  
+- Linux (CLI), security and bash scripting  
+- Networking fundamentals (TCP/IP, DNS, HTTP/HTTPS)
+- Git and version control
 
 ### Currently Learning
-- Penetration testing methodologies  
-- Web application security  
-- Cloud security (basic concepts)  
-- Threat intelligence  
+- Penetration testing methodologies
+- Web application security
+- Exploit execution techniques and vulnerability discovery methodologies
 
 ## 📚 Projects
 
-### 🎮 Gaming Server E-commerce Platform
-An e-commerce platform for selling digital products related to Minecraft/Hytale servers.  
+### 🎮 ItapixMC
+An Minecraft network with an e-commerce platform for selling digital products related to servers.  
 Includes:
 - Payment system  
 - User management  
-- Game server integration  
+- Game server integration
 
-### 🔒 Cybersecurity Practice
+### 🔒 Cyberpills
 A repository dedicated to:
-- Hands-on exercises  
-- CTF solutions  
-- Write-ups of challenges completed on platforms such as TryHackMe and Hack The Box  
-
+- Hands-on exercises of programming  
+- Mini-projects releted to Cybersecurity  
 > *Work in progress*
-
-## 🎯 2026 Goals
-
-- [ ] Officially launch **ItapixMC**
-- [ ] Create and publish my personal portfolio
-- [ ] Create mini-cybersecurity repository
-- [ ] Earn my first cybersecurity certification (CompTIA Security+)
-- [ ] Contribute to open-source projects in the security field
-- [ ] Start university studies in Computer Science
-- [ ] Find my first internship or entry-level remote job
 
 ## 📫 Contact
 
-- **LinkedIn:** https://www.linkedin.com/in/...
 - **Email:** samuelvv.contact@gmail.com
-- **Portfolio:** https://...
+- **Portfolio:** https://coming soon...
 
-🚀 If you’re interested in my journey, follow me to see my growth in the cybersecurity field.
+🚀 If you’re interested in my journey, follow or contact me!
