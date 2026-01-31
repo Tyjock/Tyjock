@@ -49,11 +49,12 @@ A repository dedicated to:
 ## 🎯 2026 Goals
 
 - [ ] Officially launch **ItapixMC**
-- [ ] Complete **50+ challenges** on TryHackMe
+- [ ] Create and publish my personal portfolio
+- [ ] Create mini-cybersecurity repository
 - [ ] Earn my first cybersecurity certification (CompTIA Security+)
 - [ ] Contribute to open-source projects in the security field
 - [ ] Start university studies in Computer Science
-- [ ] Find my first internship or entry-level job (including remote opportunities)
+- [ ] Find my first internship or entry-level remote job
 
 ## 📫 Contact
 
