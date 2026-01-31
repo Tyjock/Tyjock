@@ -1,13 +1,8 @@
-# 👋 Hi, I’m Samuel
+# 👋🏼 Hi, I’m Samuel
 
 I am an 18-year-old student attending a **Scientific High School – Applied Sciences**, with a strong passion for **computer science** and **cybersecurity**.
 
 I believe in hands-on learning and building real-world projects as the primary way to develop solid technical skills. My goal is to pursue a career in cybersecurity, working with technologies I am passionate about in environments that value autonomy, responsibility, and continuous growth.
-
-## 🚀 Current Activities
-
-- 🎮 Developing and managing an **e-commerce platform** for gaming servers (Minecraft / Hytale)
-- 🔐 Studying **cybersecurity** and **web development**
 
 ## 🛠️ Technical Skills
 
@@ -27,22 +22,23 @@ I believe in hands-on learning and building real-world projects as the primary w
 - Web application security
 - Exploit execution techniques and vulnerability discovery methodologies
 
-## 📚 Projects
+## 🚀 Projects
 
-### 🎮 ItapixMC
+### ItapixMC
 An Minecraft network with an e-commerce platform for selling digital products related to servers.  
 Includes:
 - Payment system  
 - User management  
 - Game server integration
 
-### 🔒 Cyberpills
+### Cyberpills
 A repository dedicated to:
 - Hands-on exercises of programming  
 - Mini-projects releted to Cybersecurity  
-> *Work in progress*
 
-## 📫 Contact
+> *Work in progress...*
+
+## 📧 Contact
 
 - **Email:** samuelvv.contact@gmail.com
 - **Portfolio:** https://coming soon...
