@@ -1,67 +1,68 @@
-# Ciao, sono [TuoNome] 👋
+# 👋 Ciao, sono Samuel
 
-## 🎯 Chi sono
+## 🎯 Profilo
 
-Studente di 17 anni al Liceo Scientifico Scienze Applicate con una passione per **informatica** e **cybersecurity**. 
+Sono uno studente di 18 anni del **Liceo Scientifico – Scienze Applicate**, con una forte passione per **informatica** e **cybersecurity**.
 
-Credo fortemente nell'apprendimento pratico e nella costruzione di progetti reali. Il mio obiettivo è diventare un professionista della sicurezza informatica, lavorando su ciò che mi appassiona con la libertà di gestire il mio tempo.
+Credo nell’apprendimento pratico e nello sviluppo di progetti reali come metodo principale per costruire competenze solide. Il mio obiettivo è intraprendere una carriera nella sicurezza informatica, lavorando su tecnologie che mi appassionano e in contesti che valorizzino autonomia, responsabilità e crescita continua.
 
-## 🚀 Cosa sto facendo
+## 🚀 Attività attuali
 
-- 🎓 Terminando il liceo e preparandomi per l'università in Informatica
-- 🎮 Sviluppando e gestendo un progetto di ecommerce per server gaming (Minecraft/Hytale)
-- 🔐 Studiando cybersecurity attraverso piattaforme pratiche (TryHackMe, HackTheBox)
-- 💻 Costruendo competenze in sviluppo web, sicurezza applicativa e networking
+- 🎮 Sviluppo e gestione di una piattaforma **e-commerce** per server gaming (Minecraft / Hytale)
+- 🔐 Studio di **cybersecurity** e **sviluppo web**.
 
 ## 🛠️ Competenze tecniche
 
-**Linguaggi & Framework:**
-- Python (automazione, scripting)
-- JavaScript/Node.js (backend development)
-- HTML/CSS (frontend basics)
-- SQL (database management)
+### Linguaggi & Tecnologie
+- **Python** – automazione e scripting
+- **JavaScript / Node.js** – sviluppo backend
+- **HTML / CSS** – frontend di base
+- **SQL** – gestione database
 
-**Cybersecurity & Tools:**
-- Linux command line & bash scripting
-- Network fundamentals (TCP/IP, DNS, HTTP/HTTPS)
-- OWASP Top 10 & common vulnerabilities
-- Git & version control
+### Cybersecurity & Tooling
+- Linux (CLI) e bash scripting
+- Fondamenti di networking (TCP/IP, DNS, HTTP/HTTPS)
+- OWASP Top 10 e vulnerabilità comuni
+- Git e version control
 
-**In fase di apprendimento:**
-- Penetration testing methodologies
-- Web application security
-- Cloud security basics
+### In fase di apprendimento
+- Metodologie di penetration testing
+- Sicurezza delle applicazioni web
+- Cloud security (concetti base)
 - Threat intelligence
 
-## 📚 Progetti attuali
+## 📚 Progetti
 
 ### 🎮 Gaming Server E-commerce Platform
-Piattaforma ecommerce completa per la vendita di prodotti digitali legati al mio server Minecraft/Hytale. Include sistema di pagamento, gestione utenti, e integrazione con server gaming.
-
-*Repository privato - progetto in fase di lancio*
+Piattaforma e-commerce per la vendita di prodotti digitali legati a server Minecraft/Hytale.  
+Include:
+- Sistema di pagamento
+- Gestione utenti
+- Integrazione con server di gioco
 
 ### 🔒 Cybersecurity Practice
-Repository di esercizi, CTF solutions e write-up delle challenge che completo su piattaforme come TryHackMe e HackTheBox.
+Repository dedicato a:
+- Esercizi pratici
+- Soluzioni CTF
+- Write-up di challenge completate su piattaforme come TryHackMe e Hack The Box
 
-*In costruzione*
+> *Progetto in costruzione*
 
 ## 🎯 Obiettivi 2026
 
-- [ ] Lanciare ufficialmente ItapixMC
-- [ ] Completare 50+ challenge su TryHackMe
+- [ ] Lanciare ufficialmente **ItapixMC**
+- [ ] Completare **50+ challenge** su TryHackMe
 - [ ] Ottenere la prima certificazione in cybersecurity (CompTIA Security+)
-- [ ] Contribuire a progetti open-source nel campo della sicurezza
-- [ ] Iniziare l'università in Informatica
-- [ ] Trovare il primo stage/lavoro entry-level remote
+- [ ] Contribuire a progetti open-source nel settore sicurezza
+- [ ] Iniziare l’università in Informatica
+- [ ] Trovare il primo stage o lavoro entry-level (anche remote)
 
 ## 📫 Contatti
 
-- LinkedIn: [www...]
-- Email: [smlvv08@gmail.com]
-- Portfolio: [www...]
+- **LinkedIn:** https://www.linkedin.com/in/...
+- **Email:** smlvv08@gmail.com
+- **Portfolio:** https://...
 
 ---
 
-💡 *"Il miglior modo per prevedere il futuro è costruirlo"*
-
-⭐ Se trovi interessante quello che faccio, seguimi per vedere la mia crescita nel mondo della cybersecurity!
+🚀 Se ti interessa il mio percorso, seguimi per vedere la mia crescita nel mondo della cybersecurity.
