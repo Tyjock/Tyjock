@@ -60,7 +60,7 @@ Repository dedicato a:
 ## 📫 Contatti
 
 - **LinkedIn:** https://www.linkedin.com/in/...
-- **Email:** smlvv08@gmail.com
+- **Email:** samuelvv.contact@gmail.com
 - **Portfolio:** https://...
 
 ---
