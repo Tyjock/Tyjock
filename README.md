@@ -40,9 +40,4 @@ A repository dedicated to:
 
 > *Work in progress...*
 
-## 📧 Contact
-
-- **Email:** samuelvv.contact@gmail.com
-- **Portfolio:** https://coming soon...
-
 🚀 If you’re interested in my journey, follow or contact me!
